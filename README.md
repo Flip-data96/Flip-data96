@@ -6,7 +6,7 @@
 
 ## *Olá! Me chamo Felipe Luna* 👋
 
-12 anos na área administrativa me ensinaram algo valioso:
+13 anos na área administrativa me ensinaram algo valioso:
 boas decisões nascem de bons dados.
 
 Foi essa percepção que me trouxe até aqui — migrando para

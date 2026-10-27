@@ -42,6 +42,9 @@ decisões baseadas em evidências.
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [📊 Financial Dashboard](https://github.com/Flip-data96/financial-dashboard) | Dashboard financeiro com storytelling de dados: identifica onde descontos corroem o lucro por segmento e país, com apresentação executiva | Power BI, DAX, Power Query, PowerPoint |
 | [💳 Detecção de Fraude com ML](https://github.com/Flip-data96/Detec-de-Fraude-com-Machine-Learning) | Detecção de fraudes em transações financeiras com ROC-AUC ~0.98 | Python, XGBoost, SHAP, Scikit-learn |
 | [🎙️ Assistente de Voz Multi Idiomas](https://github.com/Flip-data96/Assistente_de_Voz_Multi_Idiomas_Com_Whisper_e_ChatGPT) | Assistente de voz com transcrição Whisper e resposta via ChatGPT/Gemini | Python, OpenAI, Whisper, gTTS |
 

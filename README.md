@@ -42,6 +42,7 @@ decisões baseadas em evidências.
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| [💰 Fechamento de Recuperação de Crédito](https://github.com/Flip-data96/fechamento-recuperacao-pandas) | Automação do fechamento mensal de valores recuperados: valida os pagamentos, calcula honorários progressivos por faixa e gera a prestação de contas em Excel para cada cliente, com testes automatizados (dados fictícios) | Python, pandas, Excel, pytest |
 | [☁️ Azure Company Dashboard](https://github.com/Flip-data96/Azure_company) | BI de ponta a ponta: banco MySQL na Azure, modelagem relacional, medidas em DAX e dashboard executivo de indicadores de RH | Power BI, Azure MySQL, SQL, DAX |
 | [📊 Financial Dashboard](https://github.com/Flip-data96/financial-dashboard) | Dashboard financeiro com storytelling de dados: identifica onde descontos corroem o lucro por segmento e país, com apresentação executiva | Power BI, DAX, Power Query, PowerPoint |
 | [💳 Detecção de Fraude com ML](https://github.com/Flip-data96/Detec-de-Fraude-com-Machine-Learning) | Detecção de fraudes em transações financeiras com ROC-AUC ~0.98 | Python, XGBoost, SHAP, Scikit-learn |
